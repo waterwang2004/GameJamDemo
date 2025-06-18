@@ -27,7 +27,19 @@ MonoBehaviour:
       showInInspector: 0
       networkSync: 0
       value: 0
-    boolVariables: []
+    boolVariables:
+    - useVariable: 1
+      name: IsJumping
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 0
+    - useVariable: 1
+      name: IsMoving
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 0
     stringVariables: []
     vector2Variables: []
     vector3Variables: []
@@ -42,5 +54,5 @@ MonoBehaviour:
     enumVariables: []
     categories:
     - 
-    variableCategoryIDs: 0000000000000000
+    variableCategoryIDs: 00000000000000000000000000000000
   events: []
