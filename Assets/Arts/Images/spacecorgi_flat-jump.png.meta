@@ -1,0 +1,576 @@
+fileFormatVersion: 2
+guid: 84eae08ce9be5424b9947200c4926ae6
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spacecorgi_flat-jump_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 106
+        width: 172
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb6aec0c85f8f5a419e9f51c1f75138b
+      internalID: 1376307091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacecorgi_flat-jump_1
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 106
+        width: 172
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 246731061f85eae4b8bff9e857c49321
+      internalID: 738613281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacecorgi_flat-jump_2
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 106
+        width: 172
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e5cd3c40780cb43890a4c4d24cd2c8
+      internalID: 1835595650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacecorgi_flat-jump_3
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 106
+        width: 172
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e305342a65a3d540ba26b8ac13da9ad
+      internalID: -860423211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacecorgi_flat-jump_4
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 106
+        width: 172
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d2a40d1e89b2440b0a099451210a6d
+      internalID: 2113860789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacecorgi_flat-jump_5
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 106
+        width: 172
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c94430d73d30464fa64983c26ac6fd7
+      internalID: 23096650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacecorgi_flat-jump_6
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 106
+        width: 172
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c5d1e8b88716f940a1b288bfa04328c
+      internalID: 901796616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacecorgi_flat-jump_7
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 106
+        width: 172
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95814a8ec55cff4478d46cbbeb894d29
+      internalID: 1216694564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacecorgi_flat-jump_8
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 106
+        width: 172
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 589266625dce4804fbb4950f1055fef0
+      internalID: 910833534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacecorgi_flat-jump_9
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 106
+        width: 172
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a270c47f8a5e314a81c7781987f8e7e
+      internalID: 787847960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacecorgi_flat-jump_10
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 106
+        width: 172
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ff7fc0944d8514cbe5793267b85aa4
+      internalID: 578842161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacecorgi_flat-jump_11
+      rect:
+        serializedVersion: 2
+        x: 1892
+        y: 106
+        width: 172
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c206f609b34e614090e5729cd5eda78
+      internalID: -1172069639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacecorgi_flat-jump_12
+      rect:
+        serializedVersion: 2
+        x: 2064
+        y: 106
+        width: 172
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9d52630ce843ff4b95db44ee1c4ae41
+      internalID: -2093506751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacecorgi_flat-jump_13
+      rect:
+        serializedVersion: 2
+        x: 2236
+        y: 106
+        width: 172
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8341f500b7921e545a1b9c88fc1d2abf
+      internalID: -1488666571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacecorgi_flat-jump_14
+      rect:
+        serializedVersion: 2
+        x: 2408
+        y: 106
+        width: 172
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a4718c52ab9059499e6f26c7b77ad97
+      internalID: -28030307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacecorgi_flat-jump_15
+      rect:
+        serializedVersion: 2
+        x: 2580
+        y: 106
+        width: 172
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ab674f9871772499e7b9f5627b8b13
+      internalID: -585498762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacecorgi_flat-jump_16
+      rect:
+        serializedVersion: 2
+        x: 2752
+        y: 106
+        width: 172
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8964b15b02cfd864587f4aea0f295ffe
+      internalID: -1033998487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacecorgi_flat-jump_17
+      rect:
+        serializedVersion: 2
+        x: 2924
+        y: 106
+        width: 172
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46c48f349ad6dc347b7b19ad635c0118
+      internalID: 1554450656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacecorgi_flat-jump_18
+      rect:
+        serializedVersion: 2
+        x: 3096
+        y: 106
+        width: 172
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf3c20dc26cabe4eb5b200069c6f280
+      internalID: -2081250534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacecorgi_flat-jump_19
+      rect:
+        serializedVersion: 2
+        x: 3268
+        y: 106
+        width: 172
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8686672a33bc2c74fb3548d9911cf300
+      internalID: 572223001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacecorgi_flat-jump_20
+      rect:
+        serializedVersion: 2
+        x: 3440
+        y: 106
+        width: 172
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7183c1efdf08e44ebd0951f7b37fb2a
+      internalID: 452733608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      spacecorgi_flat-jump_0: 1376307091
+      spacecorgi_flat-jump_1: 738613281
+      spacecorgi_flat-jump_10: 578842161
+      spacecorgi_flat-jump_11: -1172069639
+      spacecorgi_flat-jump_12: -2093506751
+      spacecorgi_flat-jump_13: -1488666571
+      spacecorgi_flat-jump_14: -28030307
+      spacecorgi_flat-jump_15: -585498762
+      spacecorgi_flat-jump_16: -1033998487
+      spacecorgi_flat-jump_17: 1554450656
+      spacecorgi_flat-jump_18: -2081250534
+      spacecorgi_flat-jump_19: 572223001
+      spacecorgi_flat-jump_2: 1835595650
+      spacecorgi_flat-jump_20: 452733608
+      spacecorgi_flat-jump_3: -860423211
+      spacecorgi_flat-jump_4: 2113860789
+      spacecorgi_flat-jump_5: 23096650
+      spacecorgi_flat-jump_6: 901796616
+      spacecorgi_flat-jump_7: 1216694564
+      spacecorgi_flat-jump_8: 910833534
+      spacecorgi_flat-jump_9: 787847960
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
